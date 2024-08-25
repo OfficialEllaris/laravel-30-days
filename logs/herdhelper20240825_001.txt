@@ -1,0 +1,9 @@
+2024-08-25 02:31:47.311 +01:00 [DBG] Hosting starting
+2024-08-25 02:31:47.436 +01:00 [INF] Config path: C:\ProgramData\Herd\service.json.
+2024-08-25 02:31:47.439 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-25 02:31:47.441 +01:00 [INF] Config file with port exists, using port: 5123.
+2024-08-25 02:31:47.440 +01:00 [INF] Hosting environment: Production
+2024-08-25 02:31:47.442 +01:00 [INF] Content root path: c:\Users\Excel\Herd\example
+2024-08-25 02:31:47.442 +01:00 [DBG] Hosting started
+2024-08-25 02:31:47.451 +01:00 [WRN] Port 5123 is already in use. Trying alternative ports.
+2024-08-25 02:31:47.465 +01:00 [ERR] No free ports available from the specified range. Exiting.

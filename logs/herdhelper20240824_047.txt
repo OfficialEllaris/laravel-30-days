@@ -1,0 +1,9 @@
+2024-08-24 06:03:42.489 +01:00 [DBG] Hosting starting
+2024-08-24 06:03:42.700 +01:00 [INF] Config path: C:\ProgramData\Herd\service.json.
+2024-08-24 06:03:42.706 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-24 06:03:42.706 +01:00 [INF] Config file with port exists, using port: 5076.
+2024-08-24 06:03:42.709 +01:00 [INF] Hosting environment: Production
+2024-08-24 06:03:42.712 +01:00 [INF] Content root path: c:\Users\Excel\Herd\example
+2024-08-24 06:03:42.713 +01:00 [DBG] Hosting started
+2024-08-24 06:03:42.721 +01:00 [WRN] Port 5076 is already in use. Trying alternative ports.
+2024-08-24 06:03:42.741 +01:00 [ERR] No free ports available from the specified range. Exiting.

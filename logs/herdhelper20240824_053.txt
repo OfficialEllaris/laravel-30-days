@@ -1,0 +1,20 @@
+2024-08-24 06:36:59.385 +01:00 [DBG] Hosting starting
+2024-08-24 06:36:59.891 +01:00 [INF] Config path: C:\ProgramData\Herd\service.json.
+2024-08-24 06:36:59.897 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-24 06:36:59.906 +01:00 [INF] Hosting environment: Production
+2024-08-24 06:36:59.909 +01:00 [INF] Content root path: c:\Users\Excel\Herd\example
+2024-08-24 06:36:59.909 +01:00 [DBG] Hosting started
+2024-08-24 06:36:59.921 +01:00 [INF] Config file with port exists, using port: 5076.
+2024-08-24 06:36:59.937 +01:00 [WRN] Port 5076 is already in use. Trying alternative ports.
+2024-08-24 06:36:59.940 +01:00 [ERR] No free ports available from the specified range. Exiting.
+2024-08-24 21:13:28.480 +01:00 [DBG] Hosting starting
+2024-08-24 21:13:33.753 +01:00 [INF] Config path: C:\ProgramData\Herd\service.json.
+2024-08-24 21:13:33.759 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-24 21:13:33.762 +01:00 [INF] Hosting environment: Production
+2024-08-24 21:13:33.768 +01:00 [INF] Content root path: c:\Users\Excel\Herd\example
+2024-08-24 21:13:33.768 +01:00 [DBG] Hosting started
+2024-08-24 21:13:33.781 +01:00 [INF] Config file with port exists, using port: 5076.
+2024-08-24 21:13:33.803 +01:00 [WRN] Port 5076 is already in use. Trying alternative ports.
+2024-08-24 21:13:33.806 +01:00 [INF] Using alternative port: 5001.
+2024-08-24 21:13:33.944 +01:00 [INF] Updated config file with new port: 5001.
+2024-08-24 21:13:34.014 +01:00 [INF] HTTP Server started on http://localhost:5001/.

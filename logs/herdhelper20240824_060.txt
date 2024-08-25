@@ -1,0 +1,11 @@
+2024-08-24 22:09:51.897 +01:00 [DBG] Hosting starting
+2024-08-24 22:09:52.092 +01:00 [INF] Config path: C:\ProgramData\Herd\service.json.
+2024-08-24 22:09:52.099 +01:00 [INF] Config file with port exists, using port: 5029.
+2024-08-24 22:09:52.100 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-24 22:09:52.103 +01:00 [INF] Hosting environment: Production
+2024-08-24 22:09:52.111 +01:00 [INF] Content root path: c:\Users\Excel\Herd\example
+2024-08-24 22:09:52.111 +01:00 [DBG] Hosting started
+2024-08-24 22:09:52.114 +01:00 [WRN] Port 5029 is already in use. Trying alternative ports.
+2024-08-24 22:09:52.118 +01:00 [INF] Using alternative port: 5047.
+2024-08-24 22:09:52.166 +01:00 [INF] Updated config file with new port: 5047.
+2024-08-24 22:09:52.204 +01:00 [INF] HTTP Server started on http://localhost:5047/.
